@@ -1,0 +1,31 @@
+// // The Vue build version to load with the `import` command
+// // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
+// import Vue from 'vue'
+// import App from './App'
+// import router from './router'
+// import axios from 'axios';
+// axios.defaults.baseURL = process.env.API_ROOT
+
+// import ElementUI from 'element-ui';
+// import 'element-ui/lib/theme-chalk/index.css';
+// import linkurl from './api/LinkUrl'
+// import {post,get,get_from,up_excel} from './api/axios'
+
+// Vue.prototype.$get=get;
+// Vue.prototype.$get_from = get_from;
+// Vue.prototype.$up_excel = up_excel;
+// Vue.prototype.$post = post;
+
+// Vue.prototype.$axios = axios;
+// Vue.prototype.$linkurl = linkurl
+// Vue.use(ElementUI);
+
+// Vue.config.productionTip = false
+
+// /* eslint-disable no-new */
+// new Vue({
+//   el: '#app',
+//   router,
+//   components: { App },
+//   template: '<App/>'
+// })
