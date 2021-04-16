@@ -189,7 +189,7 @@
               <el-menu-item index="10-4-2">Checkbox 多选框</el-menu-item>
             </el-submenu>
             </el-menu-item-group>
-            <el-menu-item index="/index">选项3</el-menu-item>
+            <el-menu-item index="#/index">选项3</el-menu-item>
             <el-menu-item index="10-6">选项4</el-menu-item>
           </el-submenu>
 

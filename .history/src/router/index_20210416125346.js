@@ -30,7 +30,7 @@ export default new Router({
     },{
       path: '/home',
       name: 'home',
-      component: () => import('@/components/home.vue'),
+      component: () => import('@/components/layout.vue'),
       children: [
         {
           path: '/index',
